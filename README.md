@@ -62,3 +62,7 @@ NumericKeypad(
     deleteIcon = R.drawable.ic_delete
 )
 ```
+
+| Preview | Enter Amount | Enter Pin |
+|---|---|---|
+| <img src="https://github.com/thinkupsoft/AOS-NumericKeypad/assets/4175950/ddf987fb-5ca6-4995-9267-24283e0fe011" width="200">   | <img src="https://github.com/thinkupsoft/AOS-NumericKeypad/assets/4175950/75098e26-2778-4d2e-b5a8-078d65b6af27" width="200"> | <img src="https://github.com/thinkupsoft/AOS-NumericKeypad/assets/4175950/05502a2e-9fd7-4795-b4f8-ee1ed2071e5b" width="200"> |
